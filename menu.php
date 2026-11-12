@@ -13,16 +13,16 @@
           Funcionários
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="/funcionario/adicionar.php">Adicionar</a>
-          <a class="dropdown-item" href="/funcionario/listar.php">Listar</a>
+          <a class="dropdown-item" href="/prova-crud-treino/funcionario/adicionar.php">Adicionar</a>
+          <a class="dropdown-item" href="/prova-crud-treino/funcionario/listar.php">Listar</a>
         </div>
           <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Clientes
         </a>
          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="/cliente/adicionar.php">Adicionar</a>
-          <a class="dropdown-item" href="/cliente/listar.php">Listar</a>
+          <a class="dropdown-item" href="/prova-crud-treino/cliente/adicionar.php">Adicionar</a>
+          <a class="dropdown-item" href="/prova-crud-treino/cliente/listar.php">Listar</a>
         </div>
       </li>
     </ul>
